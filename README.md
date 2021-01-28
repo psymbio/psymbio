@@ -1,6 +1,6 @@
+<!--
 ### Leaves are graygreen,
 ### the glass broken, bright green.
-<!--
 ![](https://komarev.com/ghpvc/?username=psymbio&color=a33d70)
 **symbiopsychotaxiplasm/symbiopsychotaxiplasm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Psymbio's GitHub stats](https://github-readme-stats.vercel.app/api?username=psymbio)](https://github.com/psymbio/github-readme-stats)
